@@ -1,6 +1,6 @@
 wb_tree = None
 
-black = []
+black = [] # black node
 white = []
 
 white.extend([black, black])
